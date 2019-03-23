@@ -1,0 +1,77 @@
+<div class="title-style2 mb15"><a title="Liên hệ" href="http://www.vanchuyenthanhhung.vn/lien-he.html">Liên hệ</a></div>
+				<div class="clearfix"></div>
+				
+								
+										
+				<div class="box-module-contact">
+					<div class="info show-text"><p><strong><strong><span style="font-size: 16px;">CÔNG TY DỊCH VỤ VẬN CHUYỂN - TAXI TẢI THÀNH HƯNG</span></strong></strong></p>
+<p><span style="font-size: 16px;"><strong>Hotline 24/24:</strong>&nbsp; <a href="tel:0919542368" title="Liên hệ ngay">0919.542.368</a></span></p>
+<p><span style="font-size: 16px;"><strong>Chăm sóc khách hàng:&nbsp;</strong>0979.724.234</span></p>
+<p>Trụ sở chính :&nbsp;Số nhà 1A, Ngõ 221, Tổ 8, Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, TP.Hà Nội<span style="color: rgb(84, 141, 212);"></span></p>
+<p>Mã Số Thuế:&nbsp;<span style="color: rgb(84, 141, 212);">0108037781</span></p>
+<p>Cơ sở 1: 32 Phố Nhổn, Quan Bắc, Từ Liêm, Hà Nội</p>
+<p>Cơ sở 2: Ngõ 179/64/2 số nhà 22 phố Vĩnh Hưng, phường Vĩnh Hưng. Quận Hoàng Mai, Hà Nội</p>
+<p><span style="font-size: 16px;">Website: <a href="http://www.vanchuyenthanhhung.vn">www.vanchuyenthanhhung.vn</a></span></p></div>
+					<div class="map">
+											
+					</div>
+					
+					<h3 class="title-style1 mb15"><a>Thông tin khách hàng</a></h3>
+					
+					<div class="clearfix"></div>
+					<div class="box-form-contact col-sm-10 col-sm-offset-1">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSe9EeAjvbtyC1mZoLy9kD-nYjClvuST07e5w_dkWEvdKAxGqA/formResponse" class="form-horizontal form-contact" id="form_dathang" method="POST" target="hidden_iframe">
+						
+							<div class="form-group">
+								<label class="col-sm-3 control-label font-normal">Tiêu đề (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">
+									<div class="relative"><input type="text" class="form-control" name="entry.1903854577" required="" id="title"  error="Nhập tiêu đề" autocomplete="off"></div>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="col-sm-3 control-label font-normal">Họ tên (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">	
+									<div class="relative"><input type="text" class="form-control" name="entry.1903854577" required="" id="name" value="" error="Nhập họ tên" autocomplete="off"></div>
+								</div>
+							</div>
+							<div class="form-group">	
+								<label class="col-sm-3 control-label font-normal">Email (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">		
+									<div class="relative"><input type="email" class="form-control" name="entry.1903854577" required="" id="email" value="" error="Nhập email" autocomplete="off"></div>
+								</div>
+							</div>
+							<div class="form-group">	
+								<label class="col-sm-3 control-label font-normal">Điện thoại (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">	
+									<div class="relative"><input type="number" class="form-control" name="entry.1903854577" required="" id="phone" value="" error="Nhập số điện thoại" autocomplete="off"></div>
+								</div>
+							</div>
+							<div class="form-group">	
+								<label class="col-sm-3 control-label font-normal">Địa chỉ (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">	
+									<div class="relative"><input type="text" class="form-control" name="entry.1903854577" required="" id="address" value="" error="Nhập địa chỉ" autocomplete="off"></div>
+								</div>
+							</div>
+							<div class="form-group">	
+								<label class="col-sm-3 control-label font-normal">Nội dung (<i class="color-red font10 fa fa-asterisk"></i>)</label>
+								<div class="col-sm-9">	
+									<div class="relative"><textarea class="form-control" name="body" id="body" error="Nhập nội dung" rows="6"></textarea></div>
+								</div>
+							</div>
+							
+							
+							<div class="form-group">
+								<div class="col-sm-9 col-sm-offset-3">	
+									<button class="btn btn-primary border-radius0" type="submit">Gửi liên hệ</button>
+									<button class="btn btn-default border-radius0" type="reset">Nhập lại</button>
+								</div>
+							</div>
+							
+						</form>
+					</div>
+					
+					<div class="clearfix"></div>
+							
+				</div>
+				
+	
